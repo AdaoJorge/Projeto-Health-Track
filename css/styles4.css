@@ -1,0 +1,57 @@
+* {font-family: helvetica;}
+
+#row1{
+background-color: #168F3F;
+font-size: 20px;
+color: white;
+text-align: center;
+font-weight: bolder;
+}
+.col-6{
+padding: 18px;
+}
+.opcao{
+display: block;
+margin-left: 60px;
+margin-top: 23px;
+width: 20px;
+}
+.seta{
+display: block;
+margin-left: 11px;
+margin-top: 14px;
+width: 38px;
+}
+#line1, #line2{
+    padding-top: 1px;
+    background-color: #DCE9E6;
+  }
+.lixeira{
+    display: block;
+    margin-left: 20px;
+    margin-top: 2px;
+    width: 20px;
+}
+.adicionar{
+    display: block;
+    margin-left: 17px;
+    margin-top: 1px;
+    width: 20px;
+}
+#data, #peso, #add-novo{
+padding: 4px;
+text-align: center;
+display: block;
+color: #168F3F;
+}
+.col-5, .col-3, .col-2{
+padding: 1px;
+text-align: center;
+display: block;
+color: #403F3F;;
+}
+#add-novo{
+    color: #168F3F;
+    text-decoration: none;
+    margin-left: 18px;
+}

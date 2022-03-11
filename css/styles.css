@@ -1,0 +1,49 @@
+* {font-family: helvetica;}
+
+    .container-fluid {
+    background-color: white;
+    }
+    .row > header{
+        background-color: white;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 20px;
+        padding: 70px;
+        color: #168F3F;
+    }
+    .row > p{
+        padding: 10px;
+        font-size: 14px;
+        color: #646363;
+        text-align: center;
+    }
+    .form-grupo {
+        padding: 10px;
+        font-size: 14px;
+        color: #646363;
+    }
+    #pwd {
+        border-color:  #DCE9E6;
+    }
+    #email {
+        border-color:  #DCE9E6;
+    }
+    .solicitar-senha{
+        text-align: center;
+        font-style: italic;
+        padding-top: 50px;
+        padding-bottom: 140px;
+    }
+    a:link {
+        color: #646363;
+    }
+    .row > a {
+        text-align: center;
+        background-color: #168F3F;
+        padding: 20px;
+    }
+    .row [href]{
+        color: white;
+        text-decoration: none;
+        font-size: 17px;
+    }
